@@ -14,6 +14,6 @@ script: "python simple_tests.py"
 notifications:
   email:
     recipients:
-      -BelsterlingJB1@gcc.edu
+      - BelsterlingJB1@gcc.edu
     on_success: always # or never, could do that too.
     on_failure: always
